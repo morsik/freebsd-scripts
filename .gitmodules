@@ -1,0 +1,3 @@
+[submodule "portmanager"]
+	path = portmanager
+	url = git@github.com:morsik/portmanager.git
