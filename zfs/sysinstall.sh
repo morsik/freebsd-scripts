@@ -7,7 +7,7 @@
 
 . ../functions.sh
 
-#ifos FreeBSD "Script works only in \033[1;31mFreeBSD\033[0m"
+ifos FreeBSD "Script works only in \033[1;31mFreeBSD\033[0m"
 
 if [ $# -lt 1 ]
 then
